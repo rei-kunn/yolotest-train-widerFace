@@ -1,0 +1,8 @@
+path: /Users/rei/m1pro/ml/araya/yolov8_test/wider_face_dataset #path to the absolute dir
+train: images/train
+test: images/test
+val: images/valid
+
+#Classes
+names:
+ 0: face

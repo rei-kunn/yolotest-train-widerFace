@@ -1,0 +1,13 @@
+# train: /Users/rei/ml/araya/yolov8_test/data/train/images
+# test: /Users/rei/ml/araya/yolov8_test/data/test/images
+# val: /Users/rei/ml/araya/yolov8_test/data/val/images
+
+# nc: 1
+path: /Users/rei/m1pro/ml/araya/yolov8_test/yolov8_small_data #path to absolute dir
+train: images/train
+test: mages/test
+valid: images/valid
+
+#Classes
+names:
+ 0: person
