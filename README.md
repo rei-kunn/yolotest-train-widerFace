@@ -1,4 +1,4 @@
-## this repository is for creating the custom YOLOv8 Face Detection
+## this repository is for creating the custom Face Detection
 
 The dataset used for this training: Wider Face Dataset[http://shuoyang1213.me/WIDERFACE/]
 
